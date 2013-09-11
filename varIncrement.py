@@ -1,3 +1,9 @@
+#    Copyright (C) 2013 by
+#    David Combe (david.combe@gmail.com), Universite Jean Monnet, Saint-Etienne
+#    All rights reserved.
+#    BSD license. 
+
+
 from pprint import pprint 
 import networkx as nx # pour les exemples
 import sys
@@ -13,8 +19,8 @@ from scipy.spatial.distance import cosine, euclidean
 # Les fonctions a produire sont
 # - variInter( node, dest)
 # - (variTotale)
-# - hypothese de bougeage: moveNode(self, node, comSource, comTarget)
-# - bougeage effectif: reallyMoveNode(self, node, comSource, comTarget)
+# - hypothese de deplacement: moveNode(self, node, comSource, comTarget)
+# - deplacement effectif: reallyMoveNode(self, node, comSource, comTarget)
 
 
 

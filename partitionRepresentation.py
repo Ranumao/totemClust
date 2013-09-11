@@ -1,3 +1,16 @@
+#    Copyright (C) 2013 by
+#    David Combe (david.combe@gmail.com), Universite Jean Monnet, Saint-Etienne
+#    All rights reserved.
+#    BSD license. 
+
+
+
+"""
+Convenience functions in order to change the representation of the partitions (dictionary - array).
+"""
+
+
+
 from scipy import zeros
 from pprint import pprint
 

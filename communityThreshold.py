@@ -1,3 +1,10 @@
+#    Copyright (C) 2013 by
+#    David Combe (david.combe@gmail.com), Universite Jean Monnet, Saint-Etienne
+#    Thomas Aynaud (thomas.aynaud@lip6.fr), 
+#    All rights reserved.
+#    BSD license. 
+
+
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 """
@@ -38,11 +45,7 @@ except ImportError:
     pass
 
 __author__ = """Thomas Aynaud (thomas.aynaud@lip6.fr), David Combe (david.combe@gmail.com), Universite Jean Monnet, Saint-Etienne """
-#    Copyright (C) 2013 by
-#    David Combe (david.combe@gmail.com), Universite Jean Monnet, Saint-Etienne
-#    Thomas Aynaud (thomas.aynaud@lip6.fr), 
-#    All rights reserved.
-#    BSD license. 
+
 
 
 #nb de tests de deplacements de noeuds maximum
