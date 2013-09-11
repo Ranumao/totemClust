@@ -1,3 +1,8 @@
+#    Copyright (C) 2013 by
+#    David Combe (david.combe@gmail.com), Universite Jean Monnet, Saint-Etienne
+#    All rights reserved.
+#    BSD license. 
+
 """
 Save the best partitions seen so far.
 
